@@ -1,0 +1,60 @@
+/* common code start*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/background.png);
+}
+/* header code start*/
+header{
+    border: 1px solid red;
+    width: 100%;
+    height: 200px;
+}
+/* logo section start*/
+.logo-inner h1{
+    color: #000000;
+    font-size: 38px;
+    font-family: "century gothic", arial, sans-serif;
+    font-weight: 400;
+}
+.logo-inner h3{
+    color: #000000;
+    font-size: 13px;
+    font-family: "century gothic", arial, sans-serif;
+    font-weight: 400;
+}
+/* logo code end*/
+.container{
+    border: 1px solid red;
+    height: 100%;
+    width: 75%;
+    margin: 0 auto;
+}
+/*nav section start*/
+nav{
+    border: 1px solid green;
+    width: 100%;
+    height: 50px;
+}
+/* nav section end*/
+/* logo code end*/
+/* banner code start*/
+/* banner code end*/
+/* header code end*/
+/*main section start*/
+main{
+    border: 1px solid red;
+    width: 100%;
+    height: 500px;
+}
+/* main secton end*/
+/* footer secton start*/
+footer{
+    border: 1px solid yellow;
+    width: 100%;
+    height: 50px;
+}
+/* footer secton end*/
